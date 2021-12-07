@@ -1,6 +1,6 @@
 # pigeon simulator
 
-pigeons, leaves, and one rat, simulated with p5.js
+pigeons, leaves, and one rat, animated with p5.js
 
 see code for attributions of art/javascript snippets where applicable
 
